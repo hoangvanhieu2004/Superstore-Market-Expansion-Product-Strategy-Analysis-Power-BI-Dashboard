@@ -1,4 +1,4 @@
-# Superstore: Global Sales Analysis | Power BI Dashboard
+# Superstore: Market Expansion Product Strategy Analysis | Power BI Dashboard
 
 ## Overview
 
